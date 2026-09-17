@@ -4,7 +4,7 @@
    minor_version="2"
    build_number="1"
    service_log_guid="02430540DE317129F326BA973CA83CC1"
-   startup_clean="true">
+   startup_clean="false">
    <web_config
       port="6543"
       session_timeout="1200"
@@ -64,7 +64,7 @@
          name="admin"
          email_address=""
          sms_address=""
-         password="E3274BE5C857FB42AB72D786E281B4B8">
+         password="PXNMPrdmS8VmRCEAGJU2GBExvDbX3M1ggIoNJma9Hjg63Cl2YhspwybwQGm6BZcq7A379FACA8F997A25E4283BCC31B9706C80FFAD4F7C510EE4A6D38E4913AA9E001B44BF8C8471486033C11AB7A0765112DF530BEBB691B8312D1BFA495635114">
          <group
             name="Administrators"/>
          <group
