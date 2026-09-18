@@ -1,0 +1,29 @@
+<channel
+   name="sdfsdf"
+   guid="BCDF6E0753121067D84A36972584D646"
+   description="sdfsdf"
+   start_automatically="false"
+   logging_level="1"
+   use_message_filter="false">
+   <to_mapper
+      guid="sdfsdf-To-IeU9w43GWoaNgZ"
+      commit_id=""
+      commit_comment="">
+      <dequeue_list>
+         <dequeue
+            source_name="self"
+            dequeue_guid="9A29221721C6AE60D48BF8FAB5498BDE"/>
+      </dequeue_list>
+   </to_mapper>
+   <from_llp_listener
+      original_vmd_path="/Users/eliotmuir/builds/iguana6_check/iguana_complete/app/autoack.vmd"
+      ack_vmd_path="/Users/eliotmuir/builds/iguana6_check/iguana_complete/app/autoack.vmd"
+      port="5345"
+      connection_timeout="30"
+      unlimited_connection_timeout="false"
+      keep_vmd_updated="false"
+      ack_style="trans"
+      ack_script="sdfsdf-Ack-TdkASYJiFwJY37"
+      ack_commit_id=""
+      ack_commit_comment=""/>
+</channel>

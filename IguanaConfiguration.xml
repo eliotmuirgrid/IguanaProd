@@ -1,7 +1,7 @@
 <iguana_config
    encryption_key="eGTVNv4jlke8W5B/rMN1hg=="
    major_version="6"
-   minor_version="2"
+   minor_version="3"
    build_number="1"
    service_log_guid="02430540DE317129F326BA973CA83CC1"
    startup_clean="false">
@@ -27,6 +27,8 @@
          grouping_guid="BB843A4AB321CD2CF8071EFE309B2C89"
          description="">
          <channels>
+            <channel
+               channel_name="sdfsdf"/>
          </channels>
       </grouping>
    </channel_groupings>
