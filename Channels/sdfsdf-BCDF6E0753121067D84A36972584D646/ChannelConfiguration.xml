@@ -7,8 +7,8 @@
    use_message_filter="false">
    <to_mapper
       guid="sdfsdf-To-IeU9w43GWoaNgZ"
-      commit_id=""
-      commit_comment="">
+      commit_id="fba8d23b9da80f4bfbd90a013c345e884c84a67c"
+      commit_comment="Added stuff.">
       <dequeue_list>
          <dequeue
             source_name="self"
@@ -16,7 +16,7 @@
       </dequeue_list>
    </to_mapper>
    <from_llp_listener
-      original_vmd_path="/Users/eliotmuir/builds/iguana6_check/iguana_complete/app/autoack.vmd"
+      original_vmd_path=""
       ack_vmd_path="/Users/eliotmuir/builds/iguana6_check/iguana_complete/app/autoack.vmd"
       port="5345"
       connection_timeout="30"
