@@ -1,0 +1,13 @@
+<channel
+   name="Git source"
+   guid="EC21AD41814C41AA7DEA26EB17D73A17"
+   description=""
+   start_automatically="false"
+   logging_level="1"
+   use_message_filter="false">
+   <to_channel>
+   </to_channel>
+   <from_http
+      type="mapper"
+      guid="Git_source-FromHTTP-HxjPnb6RzYvGt7"/>
+</channel>

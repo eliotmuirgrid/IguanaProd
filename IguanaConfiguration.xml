@@ -29,6 +29,8 @@
          <channels>
             <channel
                channel_name="sdfsdf"/>
+            <channel
+               channel_name="Git source"/>
          </channels>
       </grouping>
    </channel_groupings>
