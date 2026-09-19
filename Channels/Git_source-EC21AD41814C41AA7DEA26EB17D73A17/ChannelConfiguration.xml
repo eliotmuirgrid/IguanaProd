@@ -10,5 +10,7 @@
    <from_http
       type="mapper"
       guid="Git_source-FromHTTP-HxjPnb6RzYvGt7"
+      commit_id="847910f770a3361ef96e34039a4bbb31c6847cb7"
+      commit_comment="Added hello world."
       mapper_url_path="git/"/>
 </channel>
