@@ -9,5 +9,6 @@
    </to_channel>
    <from_http
       type="mapper"
-      guid="Git_source-FromHTTP-HxjPnb6RzYvGt7"/>
+      guid="Git_source-FromHTTP-HxjPnb6RzYvGt7"
+      mapper_url_path="git/"/>
 </channel>
