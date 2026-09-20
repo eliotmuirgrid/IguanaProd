@@ -33,6 +33,8 @@
                channel_name="Git source"/>
             <channel
                channel_name="Cerner Orders"/>
+            <channel
+               channel_name="sdfsdfdd"/>
          </channels>
       </grouping>
    </channel_groupings>
