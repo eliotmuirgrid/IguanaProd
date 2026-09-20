@@ -31,6 +31,8 @@
                channel_name="sdfsdf"/>
             <channel
                channel_name="Git source"/>
+            <channel
+               channel_name="Cerner Orders"/>
          </channels>
       </grouping>
    </channel_groupings>
