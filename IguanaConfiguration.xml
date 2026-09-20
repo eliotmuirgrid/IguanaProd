@@ -4,7 +4,7 @@
    minor_version="3"
    build_number="1"
    service_log_guid="02430540DE317129F326BA973CA83CC1"
-   startup_clean="false">
+   startup_clean="true">
    <web_config
       port="6543"
       session_timeout="1200"
