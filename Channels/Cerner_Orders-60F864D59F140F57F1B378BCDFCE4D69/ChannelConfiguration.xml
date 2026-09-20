@@ -18,7 +18,7 @@
    <from_llp_listener
       original_vmd_path="/Users/eliotmuir/builds/iguana6/iguana_complete/app/autoack.vmd"
       ack_vmd_path="/Users/eliotmuir/builds/iguana6/iguana_complete/app/autoack.vmd"
-      port="5347"
+      port="15347"
       connection_timeout="30"
       unlimited_connection_timeout="false"
       keep_vmd_updated="false"
