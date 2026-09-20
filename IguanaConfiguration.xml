@@ -4,7 +4,7 @@
    minor_version="3"
    build_number="1"
    service_log_guid="02430540DE317129F326BA973CA83CC1"
-   startup_clean="true">
+   startup_clean="false">
    <web_config
       port="6543"
       session_timeout="1200"
@@ -33,6 +33,8 @@
                channel_name="Git source"/>
             <channel
                channel_name="Cerner Orders"/>
+            <channel
+               channel_name="sdfsfs"/>
          </channels>
       </grouping>
    </channel_groupings>
