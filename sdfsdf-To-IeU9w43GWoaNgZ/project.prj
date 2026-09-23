@@ -1,8 +1,10 @@
 {
     "LocalDependencies": [],
-    "LuaDependencies": [],
+    "LuaDependencies": [
+        "foo"
+    ],
     "OtherDependencies": [],
-    "timestamp": "1789830301",
+    "timestamp": "1790189553",
     "version_info": {
         "build": 0,
         "major": 6,
